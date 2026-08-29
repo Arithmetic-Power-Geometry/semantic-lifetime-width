@@ -36,6 +36,11 @@ The wall-clock enumeration benchmark is illustrative only; theorem claims use ex
 
 The project does not claim to solve P versus NP and does not present future equivalence, automata minimization, program slicing, abstract interpretation, pebbling, or graph width as new. The contribution investigated by the associated manuscript is the query-relative quotient-width parameter, its certified retirement calculus, its complexity consequences, and its structural/query separations.
 
+
+##Citation
+Akhtar, M. A. K. (2026). When Can a Computation Forget? Semantic Lifetime Width and Query-Relative State Retirement (Version V1). Zenodo. https://doi.org/10.5281/zenodo.22162568
+
+
 ## License
 
 Apache-2.0.
