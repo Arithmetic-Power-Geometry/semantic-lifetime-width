@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "When Can a Computation Forget? Semantic Lifetime Width and Query-Relative State Retirement"
+type: software
+authors:
+  - family-names: Akhtar
+    given-names: Mohammad Amir Khusru
+message: "If you use this software, please cite the associated paper."
+year: 2026
+license: Apache-2.0
