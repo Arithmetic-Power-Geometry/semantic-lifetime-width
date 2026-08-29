@@ -3,9 +3,6 @@
 Reproducible software companion for **When Can a Computation Forget?
 Semantic Lifetime Width and Query-Relative State Retirement**.
 
-**Paper:** https://doi.org/10.5281/zenodo.22162568\
-**Repository:**
-https://github.com/Arithmetic-Power-Geometry/semantic-lifetime-width
 
 The repository implements the paper's exact finite constructions and
 audits under the quotient-based definition of **Semantic Lifetime Width
