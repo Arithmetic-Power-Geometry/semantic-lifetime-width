@@ -1,0 +1,11 @@
+n,structure,query,future_classes,slw,output_bits
+4,sequential-input,parity,2,1,1
+4,sequential-input,indexed-bit,16,4,1
+8,sequential-input,parity,2,1,1
+8,sequential-input,indexed-bit,256,8,1
+16,sequential-input,parity,2,1,1
+16,sequential-input,indexed-bit,65536,16,1
+32,sequential-input,parity,2,1,1
+32,sequential-input,indexed-bit,4294967296,32,1
+64,sequential-input,parity,2,1,1
+64,sequential-input,indexed-bit,18446744073709551616,64,1
