@@ -38,6 +38,7 @@ The project does not claim to solve P versus NP and does not present future equi
 
 
 ##Citation
+
 Akhtar, M. A. K. (2026). When Can a Computation Forget? Semantic Lifetime Width and Query-Relative State Retirement (Version V1). Zenodo. https://doi.org/10.5281/zenodo.22162568
 
 
