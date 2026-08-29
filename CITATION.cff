@@ -1,9 +1,27 @@
 cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
 title: "When Can a Computation Forget? Semantic Lifetime Width and Query-Relative State Retirement"
 type: software
+
 authors:
-  - family-names: Akhtar
-    given-names: Mohammad Amir Khusru
-message: "If you use this software, please cite the associated paper."
+  - family-names: "Akhtar"
+    given-names: "Mohammad Amir Khusru"
+    orcid: "https://orcid.org/0000-0002-3432-4199"
+
 year: 2026
-license: Apache-2.0
+license: "Apache-2.0"
+
+repository-code: "https://github.com/Arithmetic-Power-Geometry/semantic-lifetime-width"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Akhtar"
+      given-names: "Mohammad Amir Khusru"
+      orcid: "https://orcid.org/0000-0002-3432-4199"
+  title: "When Can a Computation Forget? Semantic Lifetime Width and Query-Relative State Retirement"
+  year: 2026
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.22162568"
+  url: "https://doi.org/10.5281/zenodo.22162568"
